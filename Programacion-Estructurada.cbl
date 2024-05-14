@@ -43,4 +43,4 @@
 
        200-REALIZA-CALCULO.
            COMPUTE WS-SUMA = WS-SUMA + WS-NUMERO.
-       200-FIN. EXIT.
+       200-FIN. EXIT
